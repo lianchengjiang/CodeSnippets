@@ -1,4 +1,4 @@
-#CodeSnippets
+#CodeSnippets  [中文介绍](https://github.com/lianchengjiang/CodeSnippets#中文版文档)
 some code snippets for Xcode, let you code easy
 
 ![logo](https://raw.github.com/lianchengjiang/CodeSnippets/master/images/logo.gif)
@@ -77,7 +77,7 @@ modify it's name in `~/Library/Developer/Xcode/UserData/CodeSnippets`, make it e
 
 then create a [new pull request](https://github.com/lianchengjiang/CodeSnippets/compare?expand=1), and commit the code snippet
 
-# 中文版文档
+# 中文介绍
 代码块是Xcode的一个牛逼（装逼）功能，能通过自动补全，让你快速写代码，提高工作效率。
 ![logo](https://raw.github.com/lianchengjiang/CodeSnippets/master/images/logo.gif)
 如果你想详细了解代码块，可以看一下这篇文章：[Xcode Snippets中文版](http://nshipster.cn/xcode-snippets/)
