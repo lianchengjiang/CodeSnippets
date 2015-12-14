@@ -77,6 +77,9 @@ modify it's name in `~/Library/Developer/Xcode/UserData/CodeSnippets`, make it e
 
 then create a [new pull request](https://github.com/lianchengjiang/CodeSnippets/compare?expand=1), and commit the code snippet
 
+## License
+CodeSnippets is released under the MIT license. See LICENSE file for details.
+
 # 中文介绍
 代码块是Xcode的一个牛逼（装逼）功能，能通过自动补全，让你快速写代码，提高工作效率。
 ![logo](https://raw.github.com/lianchengjiang/CodeSnippets/master/images/logo.gif)
@@ -153,4 +156,7 @@ then create a [new pull request](https://github.com/lianchengjiang/CodeSnippets/
 2. 修改IDECodeSnippetIdentifier，IDECodeSnippetIdentifier必须跟名字一致，否则Xcode会crash
 ![](https://raw.github.com/lianchengjiang/CodeSnippets/master/images/contribute2.gif)
 
-创建完代码块之后，创建一个[pull request](https://github.com/lianchengjiang/CodeSnippets/compare?expand=1)，把你的代码块提交上来，这样其他人也可以
+创建完代码块之后，创建一个[pull request](https://github.com/lianchengjiang/CodeSnippets/compare?expand=1)，把你的代码块提交上来，这样其他人也可以使用了
+
+## 许可证
+CodeSnippets 使用 MIT 许可证，详情见 LICENSE 文件。
