@@ -7,6 +7,7 @@ SNIPPETS_PATH="${CURRENT_PATH}/CodeSnippets"
 
 SYSTEM_PATH="$HOME/Library/Developer/Xcode/UserData/CodeSnippets"
 
+mkdir $SYSTEM_PATH
 
 for folder in ` ls ${SNIPPETS_PATH} `
 do
