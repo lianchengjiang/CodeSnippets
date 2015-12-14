@@ -31,3 +31,5 @@ do
         done
     fi
 done
+
+open $SYSTEM_PATH
