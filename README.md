@@ -1,4 +1,4 @@
-#CodeSnippets  [中文介绍](https://github.com/lianchengjiang/CodeSnippets#中文版文档)
+#CodeSnippets  [中文介绍](https://github.com/lianchengjiang/CodeSnippets#中文介绍)
 some code snippets for Xcode, let you code easy
 
 ![logo](https://raw.github.com/lianchengjiang/CodeSnippets/master/images/logo.gif)
