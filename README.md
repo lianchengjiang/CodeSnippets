@@ -60,7 +60,7 @@ code snippets is storage in `~/Library/Developer/Xcode/UserData/CodeSnippets`, i
 4. UILableCreate: create UILabel
 ![](https://raw.github.com/lianchengjiang/CodeSnippets/master/images/create.gif)
 
-## Contributing
+## Share your CodeSnippet
 this is a growing repository. code snippets can make coding easily and improving efficiency. but one person's power is weak, if you have some snippets, you can  `create pull request` to make a contribute
 
 ### Create custom CodeSnippet
@@ -82,7 +82,9 @@ CodeSnippets is released under the MIT license. See LICENSE file for details.
 
 # 中文介绍
 代码块是Xcode的一个牛逼（装逼）功能，能通过自动补全，让你快速写代码，提高工作效率。
+
 ![logo](https://raw.github.com/lianchengjiang/CodeSnippets/master/images/logo.gif)
+
 如果你想详细了解代码块，可以看一下这篇文章：[Xcode Snippets中文版](http://nshipster.cn/xcode-snippets/)
 
 ## 安装
@@ -138,7 +140,7 @@ CodeSnippets is released under the MIT license. See LICENSE file for details.
 4. UILableCreate: create UILabel
 ![](https://raw.github.com/lianchengjiang/CodeSnippets/master/images/create.gif)
 
-## 贡献
+## 分享你的代码块
 代码块可以帮助大家提高代码效率，规范代码书写，是一个很好的东西。但是我一个人的力量是有限的，很难做到尽善尽美。所以需要大家共同来维护好这个项目。如果你有常用的代码，可以把他做成代码块，上传上来，提高自己代码效率的同时也可以帮助其他人。
 
 ### 创建自己的代码块
