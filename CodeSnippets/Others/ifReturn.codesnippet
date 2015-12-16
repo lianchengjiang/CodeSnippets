@@ -9,16 +9,16 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>if (&lt;#condition#&gt;)  return;</string>
+	<string>if (&lt;#condition#&gt;)  return &lt;#returnValue#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>ifReturn</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>if (&lt;#condition#&gt;)  return;</string>
+	<string>if (&lt;#condition#&gt;)  return &lt;#returnValue#&gt;;</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
